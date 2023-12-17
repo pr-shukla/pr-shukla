@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pr-shukla
-- 👀 I’m interested in Machine Learning and Machine Learning
-- 🌱 I’m currently learning Deep Reinforcement Learning
-- 💞️ I’m looking to collaborate on projects related to Reinforcement Learning
-- 📫 You can reach me on my Email: prshukla.ind@gmail.com
+- 👋 Hi, I’m Prashant Shukla
+- 👀 I’m ML Engineer with 3 year experience
+- 🌱 I’m interested in Cognitive Science and AI
+- 💞️ My area of expertise is Statistics, NLP, Reinforcement Learning, Graph ML, Computer Vision
+- 📫 You can reach me on my Email: prshukla.edu@gmail.com
 
 <!---
 pr-shukla/pr-shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
